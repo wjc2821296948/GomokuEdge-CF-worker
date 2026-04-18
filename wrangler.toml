@@ -1,4 +1,4 @@
-name = "gomokuedge-cf-worker"
+name = "gomoku"
 main = "src/worker.js"
 compatibility_date = "2026-04-17"
 workers_dev = true
