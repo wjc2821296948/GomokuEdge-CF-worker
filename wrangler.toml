@@ -15,3 +15,8 @@ custom_domain = true
 [[routes]]
 pattern = "gomoku.lrate.top"
 custom_domain = true
+
+[observability]
+[observability.logs]
+enabled = true
+invocation_logs = true
