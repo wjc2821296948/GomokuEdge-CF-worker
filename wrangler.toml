@@ -7,3 +7,11 @@ workers_dev = true
 binding = "GOMOKU_ROOMS"
 id = "959b45ab8e6547108be4914b4691a257"
 # preview_id 可暂时不填
+
+[[routes]]
+pattern = "wiziqi.lrate.top"
+custom_domain = true
+
+[[routes]]
+pattern = "gomoku.lrate.top"
+custom_domain = true
