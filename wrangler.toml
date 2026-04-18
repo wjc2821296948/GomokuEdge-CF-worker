@@ -1,0 +1,9 @@
+name = "gomokuedge-cf-worker"
+main = "worker.js"
+compatibility_date = "2026-04-17"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "GOMOKU_ROOMS"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+preview_id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
