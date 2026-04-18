@@ -1,0 +1,9 @@
+name = "gomokuedge-cf-worker"
+main = "src/worker.js"
+compatibility_date = "2026-04-17"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "GOMOKU_ROOMS"
+id = "959b45ab8e6547108be4914b4691a257"
+# preview_id 可暂时不填
