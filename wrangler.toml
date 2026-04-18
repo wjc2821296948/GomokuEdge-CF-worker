@@ -5,5 +5,5 @@ workers_dev = true
 
 [[kv_namespaces]]
 binding = "GOMOKU_ROOMS"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
-preview_id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "你的生产KV_ID"
+# preview_id 可暂时不填
